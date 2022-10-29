@@ -1,11 +1,17 @@
 [
     {
-        "title": "Test Title",
-        "text": "Test text"
+        "title": "Reminder",
+        "text": "Take Kyoko to the pet groomers today at 5:00 pm! \n",
+        "id": "6c9540c1-802a-4483-9764-909be43283e9"
     },
     {
-        "title": "asdfasdf",
-        "text": "asdfasdfa",
-        "id": "f671000c-5da9-438f-85c1-3cd4cca58590"
+        "title": "Test Tomorrow!",
+        "text": "Study for the test tomorrow!",
+        "id": "f5fd3991-c35f-468c-93b2-ce073179fb03"
+    },
+    {
+        "title": "Grocceries",
+        "text": "Need to get:\n\nEggs\n\nMilk\n\nOrange Juice\n\nChicken\n\nA1 Steaksauce",
+        "id": "33e93f58-500c-46db-91da-02ace0807228"
     }
 ]
