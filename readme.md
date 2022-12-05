@@ -20,21 +20,27 @@
   ## Name: 
 
   Alexander Tischner
+  
   ## Installation 
 
   No installation!
+  
   ## Contributors 
 
   None. 
+  
   ## Usage 
 
   Enter the note you would like to take and save it!  
+  
   ## Tests 
 
   None
+  
   ## License 
  
   This project is protected by the MIT license.
+  
   ## Questions 
 
   Github: [Sebascrab](https://github.com/Sebascrab) 
@@ -42,6 +48,8 @@
   Email: alexanders.tischner@outlook.com 
 
   ![image of Note Taker App](public/assets/images/Note%20Taker%20Express.png)
+  
+  Deployed: https://note-taker-app-alexander-tisch.herokuapp.com/
 
   
 
